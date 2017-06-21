@@ -1,0 +1,6 @@
+
+
+Calculating object distance from Camera
+-------------------------------------------------
+ This is done according to new Camera api functionality
+In this distance,height,length is calculated from camea to object
