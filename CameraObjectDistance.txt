@@ -3,4 +3,11 @@
 Calculating object distance from Camera
 -------------------------------------------------
  This is done according to new Camera api functionality
-In this distance,height,length is calculated from camea to object
+In this distance,height,length is calculated from camera to object
+Steps:
+------
+First input the height of the camera from the base of the object
+Then click Adjust height
+Select the units of measurement required
+Then click distance for distance calculation,height,length etc
+Used a textureview in framelayout
